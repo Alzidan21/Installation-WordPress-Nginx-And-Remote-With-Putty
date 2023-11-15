@@ -1,8 +1,8 @@
-# PengunaanPuttyPadaUbuntu
+# WordPress,Nginx And Apache2
 ## Melakukan Download Putty
 Link Download : https://putty.org/
 ## Memasukan IP pada PuTTY sesuai dengan yang ada pada ubuntu
-![image](https://github.com/AuliaNasuha/Instalasi-PuTTY-Wordpress-dan-NginX/assets/134512952/1ac4c68b-bce9-4652-8719-d1d733d1a5de)
+![image](https://github.com/AuliaNasuha/Instalasi-PuTTY-Wordpress-dan-NginX/assets/134512952/1ac4c68b-bce9-4652-8719-d1d733d1a5de) <br>
 Setelah itu Putty Siap Digunakan
 # Instalasi-Wordpress-dan-NginX
 ![image](https://github.com/AuliaNasuha/Instalasi-Wordpress-dan-NginX/assets/134512952/5892b828-348a-4245-bb33-fc867c4276a4)
@@ -79,16 +79,5 @@ Dan saatnya untuk pembuktian apakah penginstallan nginx berhasil:
 13.Mengecek apakah wordpress nya benar benar berhasil terinstall dan silahkan masukan sesuai dengan data pada mysql tadi dan jika sudah maka tampilannya akan seperti ini:
     ![image](https://github.com/AuliaNasuha/Instalasi-Wordpress-dan-NginX/assets/134512952/082014ed-2bb8-4abb-9b71-81316fc8f4d1)
 
-# TABLEAU
-
-1.Mendownload Tableau Pada Link Berikut:
-https://www.tableau.com/
-
-2.Lakukan Penginstallan
-
-3.Setelah itu olah visualisai data Menggunakan tableau
-
-Berikut adalah hasil visualisasi data saya tentang “Top 50 Best Selling Novels 2009 – 2020”
-![image](https://github.com/AuliaNasuha/Instalasi-Wordpress-dan-NginX/assets/134512952/ce419ee8-3d4a-44d0-995b-a1b4b2bfdece)
 
 
